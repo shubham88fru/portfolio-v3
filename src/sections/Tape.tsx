@@ -13,6 +13,7 @@ const words = [
   "Usable",
   "Responsive",
 ];
+
 export const TapeSection = () => {
   return (
     <div className="py-16 lg:py-24 overflow-x-clip">
